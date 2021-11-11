@@ -1,5 +1,6 @@
 # Arduino-Chronograph
 ## Code of an Arduino chronograph.
+Designed for an Arduino Uno. I used two laser gates and two 3D printed holders.
 You can configure the distance from the two sensors(begining and end).
 ``` 
 // convert mm/s to kph
